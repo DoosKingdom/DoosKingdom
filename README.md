@@ -1,12 +1,12 @@
 ```css
-C:\Users\dooskingdom>aboutme
+C:\Users\nolzz>aboutme
 
-################   ################      dk@info
+################   ################      nolzz@info
 ################   ################      ──────────
-################   ################      👤 User: DoosKingdom
+################   ################      👤 User: Nolzz
 ################   ################      🎈 Age: 14
 ################   ################      🌍 Country: USA
-################   ################      🔗 Discord: dooskingdom
+################   ################      🔗 Discord: nolzzbetter
 ```
 [![Discord Presence](https://lanyard.cnrad.dev/api/973353143389794444)](https://discord.com/users/973353143389794444)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dooskingdom)](https://frzn.fun)
