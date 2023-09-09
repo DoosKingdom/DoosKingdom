@@ -9,4 +9,4 @@ C:\Users\nolzz>aboutme
 ################   ################      🔗 Discord: nolzzbetter
 ```
 [![Discord Presence](https://lanyard.cnrad.dev/api/973353143389794444)](https://discord.com/users/973353143389794444)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dooskingdom)](https://frzn.fun)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NolzzBetter)](https://frzn.fun)
